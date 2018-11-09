@@ -46,7 +46,6 @@ More information: https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-yo
 
 
 ## Presentation
-<script async class="speakerdeck-embed" data-id="6baf61648658427090d7b7645c34d656" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 https://speakerdeck.com/daniellindemann/spfx-hands-on-global-office-365-developer-bootcamp-berlin
 
 [My Notes](./notes.md)

@@ -150,7 +150,7 @@ addToCalendar(itemId: number) {
   - Snippet `godbb18-graph`
 - Zu Deployment springen wegen Berechtigungen erteilen
 
-## Deployment Graph Anbindung
+## Deployment Graph berechtigen
 - Solution bundlen und packagen
 - Hochladen und auf Berechtigungen hinweißen
 - Berechtigungen im Admin-Center erteilen
